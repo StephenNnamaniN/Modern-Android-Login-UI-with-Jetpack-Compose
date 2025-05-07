@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="login">Login</string>
+    <string name="header_text">It\'s time to create something new! \n Login to your account and keep creating.</string>
+</resources>
